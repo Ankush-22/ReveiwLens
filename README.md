@@ -1,4 +1,4 @@
-# ReveiwLens 🕵️‍♂️
+# ReviewLens 🕵️‍♂️
 
 A hybrid AI-powered web application designed to detect deceptive hotel reviews using a combination of **Semantic NLP (TF-IDF)** and **Stylometric Analysis**.
 
